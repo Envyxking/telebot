@@ -22,7 +22,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('📢 𝐔𝐩𝐝𝐚𝐭𝐞', url='https://t.me/amal_nath_05')
+                InlineKeyboardButton('📢 𝐔𝐩𝐝𝐚𝐭𝐞', url='https://t.me/yagamiupdates')
             ],
             [
                 InlineKeyboardButton('ℹ️ 𝐇𝐞𝐥𝐩', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -42,7 +42,7 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴘ', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
-            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ', url='https://t.me/amal_nath_05')
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ', url='https://t.me/yagamiupdates')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ ʜᴇʀᴇ', switch_inline_query_current_chat='')
             ],[
@@ -84,7 +84,7 @@ async def start(client, message):
         buttons = [[
             ],[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴘ', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
-            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ', url='https://t.me/amal_nath_05')
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ', url='https://t.me/yagamiupdates')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ ʜᴇʀᴇ', switch_inline_query_current_chat='')
             ],[
