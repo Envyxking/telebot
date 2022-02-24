@@ -4,7 +4,7 @@ then
   git clone https://github.com/Envyxking/telebot /telebot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Sakura
+  git clone $UPSTREAM_REPO /telebot
 fi
 cd /Sakura
 pip3 install -U -r requirements.txt
