@@ -14,7 +14,7 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 - Sakura is not a open source project. 
 - but i will give my movie group link join and enjoy
-✯ 🎬 𝑴𝒐𝒗𝒊𝒆 𝒈𝒓𝒐𝒖𝒑:<a href=https://t.me/cinima_lokham>𝒄𝒊𝒏𝒊𝒎𝒂 𝒍𝒐𝒌𝒉𝒂𝒎</a>
+✯ 🎬 𝑴𝒐𝒗𝒊𝒆 𝒈𝒓𝒐𝒖𝒑:<a href=https://t.me/cinima_lokham>⚡️YAGAMI 🍿Movies And Series HOUSE🎥</a>
 
 <b>DEVS:</b>
 - <a href=https://t.me/Unni0240>Amal Nath</a>"""
